@@ -1,0 +1,17 @@
+{
+    "name": "create-express-mvc",
+    "version": "1.0.0",
+    "bin": {
+        "create-express-mvc": "./cli.js"
+    },
+    "dependencies": {
+        "fs-extra": "^11.2.0"
+    },
+    "keywords": [
+        "express",
+        "mvc",
+        "scaffold",
+        "cli"
+    ],
+    "license": "MIT"
+}
