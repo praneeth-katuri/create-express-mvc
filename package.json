@@ -11,7 +11,13 @@
         "express",
         "mvc",
         "scaffold",
-        "cli"
+        "cli",
+        "starter"
     ],
-    "license": "MIT"
+    "license": "MIT",
+    "author": "Praneeth Katuri",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/praneeth-katuri/create-express-mvc.git"
+    }
 }
